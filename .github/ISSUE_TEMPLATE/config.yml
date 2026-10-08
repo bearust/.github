@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Report a security vulnerability
+    url: https://github.com/bearust/bearust/security/advisories/new
+    about: Do not open a public issue for vulnerabilities. Report them privately instead.
+  - name: 📝 Code of Conduct
+    url: https://www.contributor-covenant.org/version/2/1/code_of_conduct
+    about: Bearust follows the Contributor Covenant Code of Conduct to ensure a safe and inclusive community
